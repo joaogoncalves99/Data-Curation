@@ -1,8 +1,8 @@
-# Data-Curation
-# Business Analytics Masters NovaSBE
+# Data Curation
+## Course from Masters in Business Analytics at Nova School of Business and Economics
 
-## Final Grade:
+### Final Grade:
 __/20
 
-## First Assignment Grade:
+### First Assignment Grade:
 __/20
