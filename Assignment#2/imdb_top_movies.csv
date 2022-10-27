@@ -1,0 +1,251 @@
+imdb_id,movie_name,movie_year,director_name,stars,rating,number_reviews,genre,country,language,budget,gross_revenue,runtime_minutes
+0111161,Os Condenados de Shawshank,1994,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,2700000,Drama,United States,English,25000000,28884504,142
+0068646,O Padrinho,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,1800000,"Crime, Drama",United States,"English, Italian, Latin",6000000,250341816,175
+0468569,O Cavaleiro das Trevas,2008,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.0,2600000,"Action, Crime, Drama","United States, United Kingdom","English, Mandarin",185000000,1006234167,152
+0071562,O Padrinho: Parte II,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",9.0,1300000,"Crime, Drama",United States,"English, Italian, Spanish, Latin, Sicilian",13000000,47961919,202
+0050083,Doze Homens em Fúria,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",9.0,783000,"Crime, Drama",United States,English,350000,955,96
+0108052,A Lista de Schindler,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",9.0,1300000,"Biography, Drama, History",United States,"English, Hebrew, German, Polish, Latin",22000000,322161245,195
+0167260,O Senhor dos Anéis - O Regresso do Rei,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",9.0,1800000,"Action, Adventure, Drama","New Zealand, United States","English, Quenya, Old English, Sindarin",94000000,1146436214,201
+0110912,Pulp Fiction,1994,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.9,2000000,"Crime, Drama",United States,"English, Spanish, French",8000000,213928762,154
+0120737,O Senhor dos Anéis - A Irmandade do Anel,2001,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",8.8,1900000,"Action, Adventure, Drama","New Zealand, United States","English, Sindarin",93000000,898182036,178
+0060196,"O Bom, o Mau e o Vilão",1966,Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",8.8,757000,"Adventure, Western","Italy, Spain, West Germany","Italian, English",1200000,25253887,161
+0109830,Forrest Gump,1994,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",8.8,2100000,"Drama, Romance",United States,English,55000000,678226465,142
+0137523,Clube de Combate,1999,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",8.8,2100000,Drama,"Germany, United States",English,63000000,101209702,139
+1375666,A Origem,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,2300000,"Action, Adventure, Sci-Fi","United States, United Kingdom","English, Japanese, French",160000000,836848102,148
+0167261,O Senhor dos Anéis - As Duas Torres,2002,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.8,1700000,"Action, Adventure, Drama","New Zealand, United States","English, Sindarin, Old English",94000000,947926792,179
+0080684,Star Wars: Episódio V - O Império Contra-Ataca,1980,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7,1300000,"Action, Adventure, Fantasy",United States,English,18000000,538375067,124
+0133093,Matrix,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,1900000,"Action, Sci-Fi","United States, Australia",English,63000000,467222728,136
+0099685,Tudo Bons Rapazes,1990,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,1100000,"Biography, Crime, Drama",United States,"English, Italian",25000000,47036784,145
+0073486,Voando Sobre Um Ninho de Cucos,1975,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",8.7,1000000,Drama,United States,English,3000000,109114817,133
+0114369,Seven - 7 Pecados Mortais,1995,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,1600000,"Crime, Drama, Mystery",United States,English,33000000,327333559,127
+0047478,Os Sete Samurais,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",8.6,345000,"Action, Drama",Japan,Japanese,,346258,207
+0038650,Do Céu Caiu Uma Estrela,1946,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",8.6,453000,"Drama, Family, Fantasy",United States,"English, French",3180000,6184298,130
+0102926,O Silêncio dos Inocentes,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",8.6,1400000,"Crime, Drama, Thriller",United States,"English, Latin",19000000,272742922,118
+0317248,Cidade de Deus,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",8.6,753000,"Crime, Drama","Brazil, France, Germany",Portuguese,3300000,30680793,130
+0120815,O Resgate do Soldado Ryan,1998,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",8.6,1400000,"Drama, War",United States,"English, French, German, Czech",70000000,482349603,169
+0118799,A Vida É Bela,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",8.6,690000,"Comedy, Drama, Romance",Italy,"Italian, German, English",20000000,230098753,116
+0816692,Interstellar,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.6,1800000,"Adventure, Drama, Sci-Fi","United States, United Kingdom, Canada",English,165000000,773897851,169
+0120689,À Espera de Um Milagre,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",8.6,1300000,"Crime, Drama, Fantasy",United States,"English, French",60000000,286801374,189
+0076759,A Guerra das Estrelas,1977,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6,1400000,"Action, Adventure, Fantasy",United States,English,11000000,775398007,121
+0103064,O Exterminador Implacável 2 - O Dia do Julgamento,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",8.6,1100000,"Action, Sci-Fi",United States,"English, Spanish",102000000,520881154,137
+0088763,Regresso ao Futuro,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5,1200000,"Adventure, Comedy, Sci-Fi",United States,English,19000000,383336762,116
+0245429,A Viagem de Chihiro,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",8.6,755000,"Animation, Adventure, Family",Japan,"Japanese, English",19000000,355725195,125
+0054215,Psico,1960,Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",8.5,668000,"Horror, Mystery, Thriller",United States,English,806947,32052925,109
+0253474,O Pianista,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",8.5,825000,"Biography, Drama, Music","France, Poland, Germany, United Kingdom","English, German, Russian",35000000,120072577,150
+6751668,Parasitas,2019,Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",8.5,785000,"Drama, Thriller",South Korea,"Korean, English",11400000,262566980,132
+0110413,"Léon, o Profissional",1994,Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",8.5,1200000,"Action, Crime, Drama","France, United States","English, Italian, French",,19569225,110
+0110357,The Lion King,1994,Roger Allers,"Matthew Broderick, Jeremy Irons, James Earl Jones",8.5,1000000,"Animation, Adventure, Drama",United States,"English, Swahili, Xhosa, Zulu",45000000,1063611805,88
+0172495,Gladiador,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",8.5,1500000,"Action, Adventure, Drama","United States, United Kingdom, Malta, Morocco",English,103000000,465380802,155
+0120586,América Proibida,1998,Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",8.5,1100000,"Crime, Drama",United States,English,20000000,23875127,119
+0407887,The Departed - Entre Inimigos,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",8.5,1300000,"Crime, Drama, Thriller","United States, Hong Kong","English, Cantonese",90000000,291480452,151
+0114814,Os Suspeitos do Costume,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",8.5,1100000,"Crime, Drama, Mystery","United States, Germany","English, Hungarian, Spanish, French",6000000,23341568,106
+0482571,O Terceiro Passo,2006,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",8.5,1300000,"Drama, Mystery, Sci-Fi","United Kingdom, United States",English,40000000,109676311,130
+2582802,Whiplash - Nos Limites,2014,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",8.5,846000,"Drama, Music",United States,English,3300000,49396747,106
+0034583,Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",8.5,569000,"Drama, Romance, War",United States,"English, French, German, Italian",950000,4497994,102
+1675434,Amigos Improváveis,2011,Olivier Nakache,"François Cluzet, Omar Sy, Anne Le Ny",8.5,851000,"Biography, Comedy, Drama",France,"French, English",,426588510,112
+0056058,Harakiri,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",8.6,57000,"Action, Drama, Mystery",Japan,Japanese,,15222,133
+0095327,O Túmulo dos Pirilampos,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",8.5,275000,"Animation, Drama, War",Japan,Japanese,3700000,516962,89
+0027977,Tempos Modernos,1936,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",8.5,242000,"Comedy, Drama, Romance",United States,English,1500000,463618,87
+0064116,Aconteceu no Oeste,1968,Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",8.5,328000,Western,"Italy, United States","Italian, English, Spanish",5000000,5434825,165
+0047396,Janela Indiscreta,1954,Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",8.5,490000,"Mystery, Thriller",United States,English,1000000,37034579,112
+0021749,Luzes da Cidade,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",8.5,185000,"Comedy, Drama, Romance",United States,"None, English",1500000,50419,87
+0078748,Alien - O 8.º Passageiro,1979,Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",8.5,875000,"Horror, Sci-Fi","United Kingdom, United States",English,11000000,106285522,117
+0095765,Cinema Paraíso,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",8.5,260000,"Drama, Romance","Italy, France",Italian,5000000,13019063,155
+0078788,Apocalypse Now,1979,Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",8.5,664000,"Drama, Mystery, War",United States,"English, French, Vietnamese",31500000,104728335,147
+0209144,Memento,2000,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",8.4,1200000,"Mystery, Thriller",United States,English,9000000,40047078,113
+0082971,Os Salteadores da Arca Perdida,1981,Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",8.4,960000,"Action, Adventure",United States,"English, German, Hebrew, Spanish, Arabic, Nepali",18000000,389925971,115
+1853728,Django Libertado,2012,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",8.4,1500000,"Drama, Western",United States,"English, German, French, Italian",100000000,426074373,165
+0910970,WALL·E,2008,Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",8.4,1100000,"Animation, Adventure, Family",United States,"English, Hindi",180000000,521311890,98
+0405094,As Vidas dos Outros,2006,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",8.4,389000,"Drama, Mystery, Thriller","Germany, France",German,2000000,77356942,137
+0043014,Crepúsculo dos Deuses,1950,Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",8.4,222000,"Drama, Film-Noir",United States,English,1752000,300073,110
+0050825,Horizontes de Glória,1957,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",8.4,197000,"Drama, War",United States,"English, German, Latin",935000,5252,88
+0081505,Shining,1980,Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4,1000000,"Drama, Horror","United Kingdom, United States",English,19000000,47333264,146
+0032553,O Grande Ditador,1940,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",8.4,224000,"Comedy, Drama, War",United States,"English, Esperanto, Latin",2000000,970263,125
+0051201,Testemunha de Acusação,1957,Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",8.4,125000,"Crime, Drama, Mystery",United States,"English, German",3000000,7693,116
+4154756,Vingadores: Guerra do Infinito,2018,Anthony Russo,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4,1100000,"Action, Adventure, Sci-Fi",United States,English,321000000,2048359754,149
+0090605,Aliens: O Recontro Final,1986,James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.4,714000,"Action, Adventure, Sci-Fi","United Kingdom, United States","English, Spanish",18500000,131060248,137
+0169547,Beleza Americana,1999,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",8.4,1100000,Drama,United States,English,15000000,356296601,122
+4633694,Homem-Aranha: No Universo Aranha,2018,Bob Persichetti,"Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4,519000,"Animation, Action, Adventure",United States,"English, Spanish",90000000,375540831,117
+0057012,Dr. Estranhoamor,1964,Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",8.4,489000,"Comedy, War","United Kingdom, United States","English, Russian",1800000,9523464,95
+1345836,O Cavaleiro das Trevas Renasce,2012,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",8.4,1700000,"Action, Drama","United States, United Kingdom","English, Arabic",250000000,1081169825,164
+0364569,Oldboy-Velho amigo,2003,Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",8.4,575000,"Action, Drama, Mystery",South Korea,Korean,3000000,15412962,120
+7286456,Joker,2019,Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",8.4,1300000,"Crime, Drama, Thriller","United States, Canada",English,55000000,1074445730,122
+0086879,Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",8.4,400000,"Biography, Drama, Music","United States, France, Italy","English, Italian, Latin, German, French",18000000,52066791,160
+0114709,Toy Story: Os Rivais,1995,John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3,987000,"Animation, Adventure, Comedy",United States,English,30000000,394436586,81
+0361748,Sacanas Sem Lei,2009,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",8.3,1400000,"Adventure, Drama, War","Germany, United States","English, German, French, Italian",70000000,321457747,153
+0112573,Braveheart: O Desafio do Guerreiro,1995,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",8.4,1000000,"Biography, Drama, History",United States,"English, French, Latin, Gaelic, Italian",72000000,213216216,178
+2380307,Coco,2017,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4,500000,"Animation, Adventure, Comedy",United States,"English, Spanish",175000000,807817888,105
+0082096,A Odisseia do Submarino 96,1981,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",8.4,251000,"Drama, War","West Germany, Italy, France, United Kingdom",German,,11487676,149
+1745960,Top Gun: Maverick,2022,Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller",8.4,406000,"Action, Drama",United States,English,170000000,1483009902,130
+4154796,Vingadores: Endgame,2019,Anthony Russo,"Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,1100000,"Action, Adventure, Drama",United States,"English, Japanese, Xhosa, German",356000000,2797501328,181
+0119698,A Princesa Mononoke,1997,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",8.4,392000,"Animation, Action, Adventure",Japan,Japanese,,170005875,134
+0087843,Era Uma Vez na América,1984,Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",8.3,351000,"Crime, Drama","Italy, United States","English, Italian, French, Yiddish, Hebrew",30000000,5473337,229
+0119217,O Bom Rebelde,1997,Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",8.3,959000,"Drama, Romance",United States,English,10000000,225933435,126
+5311514,Kimi no na wa.,2016,Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita",8.4,265000,"Animation, Drama, Fantasy",Japan,Japanese,,358180115,106
+0180093,A Vida não é um Sonho,2000,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",8.3,837000,Drama,United States,English,4500000,7390108,102
+0435761,Toy Story 3,2010,Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",8.3,831000,"Animation, Adventure, Comedy",United States,"English, Spanish",200000000,1066970811,103
+0045152,Serenata à Chuva,1952,Stanley Donen,"Gene Kelly, Donald O'Connor, Debbie Reynolds",8.3,242000,"Comedy, Musical, Romance",United States,English,2540800,1985921,103
+1187043,3 Idiots,2009,Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh",8.4,398000,"Comedy, Drama",India,"Hindi, English",,60262836,170
+0057565,Céu e o Inferno,1963,Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",8.4,45000,"Crime, Drama, Mystery",Japan,Japanese,,46808,143
+0086190,Star Wars: Episódio VI - O Regresso de Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",8.3,1000000,"Action, Adventure, Fantasy",United States,"English, Kikuyu, Tagalog, Kalmyk-Oirat, Quechua, Polish",32500000,475106177,131
+0062622,2001: Odisseia no Espaço,1968,Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,665000,"Adventure, Sci-Fi","United Kingdom, United States","English, Russian, French",12000000,65877808,149
+0338013,O Despertar da Mente,2004,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3,1000000,"Drama, Romance, Sci-Fi",United States,English,20000000,74036715,108
+0105236,Cães Danados,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",8.3,1000000,"Crime, Thriller",United States,English,1200000,2913644,99
+8267604,Cafarnaum,2018,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,89000,Drama,"Lebanon, France, Cyprus, Qatar, United Kingdom","Arabic, Amharic",4000000,64417003,126
+2106476,The Hunt - A Caça,2012,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",8.3,328000,Drama,"Denmark, Sweden","Danish, English, Polish",3800000,15886373,115
+0033467,O Mundo a Seus Pés,1941,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",8.3,441000,"Drama, Mystery",United States,"English, Italian",839727,1645133,119
+0056172,Lawrence da Arábia,1962,David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",8.3,293000,"Adventure, Biography, Drama",United Kingdom,"English, Arabic, Turkish",15000000,45716692,218
+0022100,Matou,1931,Fritz Lang,"Peter Lorre, Ellen Widmann, Inge Landgut",8.3,158000,"Crime, Mystery, Thriller",Germany,German,,35566,117
+0091251,Vem e Vê,1985,Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",8.4,79000,"Drama, Thriller, War",Soviet Union,"Russian, Belarusian, German",,20929648,142
+0053125,Intriga Internacional,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",8.3,327000,"Action, Adventure, Mystery",United States,"English, French",3101000,142319,136
+0052357,A Mulher Que Viveu Duas Vezes,1958,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",8.3,401000,"Mystery, Romance, Thriller",United States,English,2479000,7798000,128
+0211915,O Fabuloso Destino de Amélie,2001,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Rufus",8.3,754000,"Comedy, Romance","France, Germany","French, Russian, English",10000000,174122191,122
+0066921,Laranja Mecânica,1971,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",8.3,825000,"Crime, Sci-Fi","United Kingdom, United States",English,2200000,26960374,136
+0053604,O Apartamento,1960,Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",8.3,181000,"Comedy, Drama, Romance",United States,English,3000000,18778738,125
+0036775,Pagos a Dobrar,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",8.3,157000,"Crime, Drama, Film-Noir",United States,English,927262,14651,107
+0093058,Nascido Para Matar,1987,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",8.3,739000,"Drama, War","United Kingdom, United States","English, Vietnamese",30000000,46357676,116
+0044741,Viver - Ikiru,1952,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",8.3,79000,Drama,Japan,Japanese,,96302,143
+0086250,Scarface - A Força do Poder,1983,Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer",8.3,834000,"Crime, Drama",United States,"English, Spanish",25000000,65884703,170
+8503618,Hamilton,2020,Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",8.4,93000,"Biography, Drama, History",United States,English,,,160
+0070735,A Golpada,1973,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",8.3,262000,"Comedy, Crime, Drama",United States,English,5500000,156000000,129
+0056592,Na Sombra e no Silêncio,1962,Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",8.3,316000,"Crime, Drama",United States,English,2000000,599146,129
+0113277,Heat - Cidade Sob Pressão,1995,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer",8.3,651000,"Action, Crime, Drama",United States,"English, Spanish",60000000,187436818,170
+1049413,Up - Altamente,2009,Pete Docter,"Edward Asner, Jordan Nagai, John Ratzenberger",8.3,1000000,"Animation, Adventure, Comedy",United States,English,175000000,735099102,96
+0075314,Taxi Driver,1976,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",8.2,824000,"Crime, Drama",United States,"English, Spanish",1300000,28570902,114
+1255953,Incendies - A Mulher que Canta,2010,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",8.3,177000,"Drama, Mystery","Canada, France","French, Arabic, English",6800000,6788659,131
+0017136,Metropolis,1927,Fritz Lang,"Brigitte Helm, Alfred Abel, Gustav Fröhlich",8.3,174000,"Drama, Sci-Fi",Germany,"German, English",,1349711,153
+0119488,L.A. Confidencial,1997,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce",8.2,581000,"Crime, Drama, Mystery",United States,English,35000000,126216940,138
+1832382,Uma Separação,2011,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat",8.3,245000,Drama,"Iran, France, Australia",Persian,500000,22926076,123
+0208092,Snatch - Porcos E Diamantes,2000,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",8.2,852000,"Comedy, Crime","United Kingdom, United States","English, Russian",,83557872,104
+0040522,Ladrões de Bicicletas,1948,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",8.3,164000,Drama,Italy,"Italian, English, German",133000,436655,89
+0095016,Die Hard - Assalto ao Arranha-Céus,1988,John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",8.2,871000,"Action, Thriller",United States,"English, German, Italian, Japanese",28000000,141603197,132
+0097576,Indiana Jones e a Grande Cruzada,1989,Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody",8.2,751000,"Action, Adventure",United States,"English, German, Greek, Arabic",48000000,474171806,127
+0986264,Taare Zameen Par,2007,Aamir Khan,"Darsheel Safary, Aamir Khan, Tisca Chopra",8.4,193000,"Drama, Family",India,Hindi,,21897373,165
+8579674,1917,2019,Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays",8.2,579000,"Action, Drama, War","United Kingdom, United States, India, Spain","English, French, German",95000000,384938032,119
+0363163,A Queda: Hitler e o Fim do Terceiro Reich,2004,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",8.2,355000,"Biography, Drama, History","Germany, Austria, Italy","German, Russian, French, English",,92181574,156
+0059578,Por Mais Alguns Dólares,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",8.2,256000,Western,"Italy, Spain, West Germany","Italian, English",600000,15000000,132
+0372784,Batman - O Início,2005,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe",8.2,1500000,"Action, Crime, Drama","United States, United Kingdom","English, Mandarin",150000000,373672993,140
+5074352,Dangal,2016,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",8.3,190000,"Action, Biography, Drama","India, United States","Hindi, English",,303723636,161
+0012349,O Garoto de Charlot,1921,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",8.3,127000,"Comedy, Drama, Family",United States,English,250000,41960,68
+0053291,Quanto Mais Quente Melhor,1959,Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",8.2,267000,"Comedy, Music, Romance",United States,English,2883848,195088,121
+0042192,Eva,1950,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",8.2,132000,Drama,United States,"English, French",1400000,151052,138
+10272386,O Pai,2020,Florian Zeller,"Anthony Hopkins, Olivia Colman, Mark Gatiss",8.2,150000,"Drama, Mystery","United Kingdom, France, United States",English,6000000,24647138,97
+6966692,Green Book - Um Guia Para a Vida,2018,Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini",8.2,485000,"Biography, Comedy, Drama","United States, China","English, Italian, Russian, German",23000000,321752656,130
+0993846,O Lobo de Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie",8.2,1400000,"Biography, Comedy, Crime",United States,"English, French",100000000,406878233,180
+0055031,O Julgamento de Nuremberga,1961,Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark",8.3,78000,"Drama, War",United States,"English, German",3000000,12180,179
+0089881,Ran - Os Senhores da Guerra,1985,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",8.2,126000,"Action, Drama, War","Japan, France",Japanese,11500000,4164283,162
+0112641,Casino,1995,Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci",8.2,517000,"Crime, Drama","United States, France",English,52000000,116112375,178
+0457430,O Labirinto do Fauno,2006,Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López",8.2,666000,"Drama, Fantasy, War","Mexico, Spain",Spanish,19000000,83862032,118
+0105695,Imperdoável,1992,Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman",8.2,411000,"Drama, Western",United States,English,14400000,159167799,130
+0469494,Haverá Sangue,2007,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",8.2,583000,Drama,United States,"English, American Sign Language",25000000,76182388,158
+0120382,The Truman Show - A Vida em Directo,1998,Peter Weir,"Jim Carrey, Ed Harris, Laura Linney",8.2,1100000,"Comedy, Drama",United States,English,60000000,264118201,103
+10872600,Homem-Aranha: Sem Volta a Casa,2021,Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch",8.3,737000,"Action, Adventure, Fantasy",United States,English,200000000,1920544470,148
+0167404,O Sexto Sentido,1999,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette",8.2,987000,"Drama, Mystery, Thriller",United States,"English, Latin, Spanish",40000000,672806432,107
+0268978,Uma Mente Brilhante,2001,Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly",8.2,928000,"Biography, Drama",United States,English,58000000,316791257,135
+0055630,Yojimbo - O Invencível,1961,Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",8.2,123000,"Action, Drama, Thriller",Japan,Japanese,,46808,110
+0071853,Monty Python e o Cálice Sagrado,1975,Terry Gilliam,"Graham Chapman, John Cleese, Eric Idle",8.2,540000,"Adventure, Comedy, Fantasy",United Kingdom,"English, French, Latin, Swedish",,1940906,91
+0040897,O Tesouro da Sierra Madre,1948,John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",8.2,125000,"Adventure, Drama, Western",United States,"English, Spanish",3000000,5014000,126
+1130884,Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",8.2,1300000,"Mystery, Thriller",United States,"English, German",80000000,294805697,138
+0107290,Parque Jurássico,1993,Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum",8.2,982000,"Action, Adventure, Sci-Fi",United States,"English, Spanish",63000000,1109802321,127
+0042876,Às Portas do Inferno,1950,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",8.2,169000,"Crime, Drama, Mystery",Japan,Japanese,250000,46808,88
+0057115,A Grande Evasão,1963,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",8.2,244000,"Adventure, Drama, History",United States,"English, German, French, Russian, Spanish",4000000,228178,172
+0266697,Kill Bill - A Vingança (vol. 1),2003,Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah",8.2,1100000,"Action, Crime, Drama",United States,"English, Japanese, French",30000000,180906076,111
+0477348,Este País Não É Para Velhos,2007,Ethan Coen,"Tommy Lee Jones, Javier Bardem, Josh Brolin",8.2,964000,"Crime, Drama, Thriller",United States,"English, Spanish",25000000,171627166,122
+0266543,À Procura de Nemo,2003,Andrew Stanton,"Albert Brooks, Ellen DeGeneres, Alexander Gould",8.2,1000000,"Animation, Adventure, Comedy",United States,English,94000000,940352645,100
+0080678,O Homem Elefante,1980,David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft",8.2,241000,"Biography, Drama","United States, United Kingdom","English, French",5000000,26023860,124
+0084787,Veio do Outro Mundo,1982,John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",8.2,422000,"Horror, Mystery, Sci-Fi","United States, Canada","English, Norwegian",15000000,19632715,109
+0071315,Chinatown,1974,Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston",8.2,326000,"Drama, Mystery, Thriller",United States,"English, Cantonese, Spanish",6000000,29225935,130
+0081398,O Touro Enraivecido,1980,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci",8.2,353000,"Biography, Drama, Sport",United States,English,18000000,23402427,129
+0031381,E Tudo o Vento Levou,1939,Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell",8.2,315000,"Drama, Romance, War",United States,English,3977000,402382193,238
+0434409,V de Vingança,2005,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves",8.2,1100000,"Action, Drama, Sci-Fi","United States, United Kingdom, Germany",English,54000000,132511035,132
+2096673,Divertida-Mente,2015,Pete Docter,"Amy Poehler, Bill Hader, Lewis Black",8.2,708000,"Animation, Adventure, Comedy",United States,"English, Portuguese",175000000,858848019,95
+0120735,Um Mal Nunca Vem Só,1998,Guy Ritchie,"Jason Flemyng, Dexter Fletcher, Nick Moran",8.2,580000,"Action, Comedy, Crime",United Kingdom,English,,3753929,107
+0046912,Chamada para a Morte,1954,Alfred Hitchcock,"Ray Milland, Grace Kelly, Robert Cummings",8.2,176000,"Crime, Thriller",United States,English,1400000,31207,88
+1305806,O Segredo dos Seus Olhos,2009,Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago",8.2,210000,"Drama, Mystery, Romance","Argentina, Spain",Spanish,2000000,35079650,129
+0347149,O Castelo Andante,2004,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",8.2,392000,"Animation, Adventure, Family",Japan,Japanese,24000000,237536126,119
+0050212,A Ponte do Rio Kwai,1957,David Lean,"William Holden, Alec Guinness, Jack Hawkins",8.2,221000,"Adventure, Drama, War","United Kingdom, United States","English, Japanese, Thai",3000000,27200000,161
+5027774,Três Cartazes à Beira da Estrada,2017,Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell",8.1,503000,"Comedy, Crime, Drama","United Kingdom, United States",English,15000000,160260573,115
+0117951,Trainspotting,1996,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",8.1,685000,Drama,United Kingdom,English,,16767475,93
+1291584,Warrior - Combate Entre Irmãos,2011,Gavin O'Connor,"Tom Hardy, Nick Nolte, Joel Edgerton",8.2,471000,"Action, Drama, Sport",United States,"English, Spanish",25000000,23308615,140
+1205489,Gran Torino,2008,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",8.1,773000,Drama,"Germany, United States","English, Hmong",33000000,269958228,116
+0116282,Fargo,1996,Joel Coen,"William H. Macy, Frances McDormand, Steve Buscemi",8.1,675000,"Crime, Thriller","United States, United Kingdom",English,7000000,60611975,98
+1392214,Raptadas,2013,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis",8.1,704000,"Crime, Drama, Mystery",United States,English,46000000,122126687,153
+0096283,O Meu Vizinho Totoro,1988,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",8.1,337000,"Animation, Comedy, Family",Japan,Japanese,3700000,30574632,86
+0405159,Million Dollar Baby - Sonhos Vencidos,2004,Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman",8.1,685000,"Drama, Sport",United States,"English, Irish Gaelic",30000000,216763646,132
+0264464,Apanha-me Se Puderes,2002,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken",8.1,971000,"Biography, Crime, Drama","United States, Canada","English, French",52000000,352114312,141
+0015864,A Quimera do Ouro,1925,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",8.2,112000,"Adventure, Comedy, Drama",United States,"English, None",923000,29328,95
+0118849,Bacheha-Ye aseman,1997,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi",8.2,75000,"Drama, Family, Sport",Iran,Persian,180000,933933,89
+0083658,Blade Runner - Perigo Iminente,1982,Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young",8.1,765000,"Action, Drama, Sci-Fi",United States,"English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",,41722424,117
+0047296,Há Lodo no Cais,1954,Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb",8.1,155000,"Crime, Drama, Thriller",United States,English,910000,,108
+2024544,12 Anos Escravo,2013,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",8.1,698000,"Biography, Drama, History","United States, United Kingdom",English,20000000,187733202,134
+0112471,Antes do Amanhecer,1995,Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert",8.1,307000,"Drama, Romance","United States, Austria","English, German, French",2500000,5987386,101
+0041959,O Terceiro Homem,1949,Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli",8.1,172000,"Film-Noir, Mystery, Thriller",United Kingdom,"English, German, Russian, French",,1226507,104
+0050986,Morangos Silvestres,1957,Ingmar Bergman,"Victor Sjöström, Bibi Andersson, Ingrid Thulin",8.1,108000,"Drama, Romance",Sweden,"Swedish, Latin",,60418,91
+1201607,Harry Potter e os Talismãs da Morte: Parte 2,2011,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint",8.1,868000,"Adventure, Family, Fantasy","United Kingdom, United States","English, Latin",125000000,1342359942,130
+0052618,Ben-Hur,1959,William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",8.1,239000,"Adventure, Drama",United States,English,15000000,74437720,212
+0017925,Pamplinas Maquinista,1926,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",8.2,92000,"Action, Adventure, Comedy",United States,None,750000,,67
+2267998,Em Parte Incerta,2014,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",8.1,975000,"Drama, Mystery, Thriller",United States,English,61000000,369330363,149
+0077416,O Caçador,1978,Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale",8.1,339000,"Drama, War","United States, United Kingdom","English, Vietnamese, French, Russian, Cantonese",15000000,49074379,183
+2278388,Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",8.1,802000,"Adventure, Comedy, Crime","United States, Germany","English, French, German",25000000,173082189,99
+0107207,Em Nome do Pai,1993,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",8.1,175000,"Biography, Crime, Drama","Ireland, United Kingdom",English,13000000,65796862,133
+0072684,Barry Lyndon,1975,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson, Patrick Magee",8.1,168000,"Adventure, Drama, War","United Kingdom, United States","English, German, French",11000000,198992,185
+0046268,O Salário do Medo,1953,Henri-Georges Clouzot,"Yves Montand, Charles Vanel, Peter van Eyck",8.2,61000,"Adventure, Drama, Thriller","France, Italy","French, English, Spanish, German, Italian, Russian",,1098,131
+0015324,Sherlock Holmes Jr.,1924,Buster Keaton,"Buster Keaton, Kathryn McGuire, Joe Keaton",8.2,50000,"Action, Comedy, Romance",United States,"English, None",,,2700
+0031679,Peço a Palavra,1939,Frank Capra,"James Stewart, Jean Arthur, Claude Rains",8.1,116000,"Comedy, Drama",United States,English,1900000,144738,129
+2119532,O Herói de Hacksaw Ridge,2016,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey",8.1,520000,"Biography, Drama, History","Australia, United States","English, Japanese",40000000,180563636,139
+0353969,Memórias de Um Assassino,2003,Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Roe-ha Kim",8.1,182000,"Crime, Drama, Mystery",South Korea,"Korean, English",2800000,1166717,131
+4729430,Klaus,2019,Sergio Pablos,"Jason Schwartzman, J.K. Simmons, Rashida Jones",8.1,148000,"Animation, Adventure, Comedy","Spain, United Kingdom, United States","English, Saami",40000000,,96
+3011894,Relatos Selvagens,2014,Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa",8.1,198000,"Comedy, Drama, Thriller","Argentina, Spain, France, United Kingdom",Spanish,3300000,31061476,122
+0050976,O Sétimo Selo,1957,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",8.1,185000,"Drama, Fantasy",Sweden,"Swedish, Latin",150000,311212,96
+3170832,Quarto,2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers",8.1,419000,"Drama, Thriller","Ireland, Canada, United Kingdom, United States",English,13000000,35401758,118
+1392190,Mad Max: A Estrada da Morte,2015,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",8.1,994000,"Action, Adventure, Sci-Fi",Australia,"English, Russian",150000000,375709470,120
+0978762,Mary and Max.,2009,Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana",8.1,177000,"Animation, Comedy, Drama",Australia,"English, Yiddish",8240000,1740429,92
+0892769,Como Treinares o Teu Dragão,2010,Dean DeBlois,"Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",8.1,736000,"Animation, Action, Adventure",United States,English,165000000,494879471,98
+0118715,O Grande Lebowski,1998,Joel Coen,"Jeff Bridges, John Goodman, Julianne Moore",8.1,804000,"Comedy, Crime","United States, United Kingdom","English, German, Hebrew, Spanish",15000000,46969409,117
+0198781,Monstros e Companhia,2001,Pete Docter,"Billy Crystal, John Goodman, Mary Gibbs",8.1,903000,"Animation, Adventure, Comedy",United States,English,115000000,579707738,92
+0073195,Tubarão,1975,Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss",8.1,603000,"Adventure, Thriller",United States,English,7000000,476512065,124
+0046438,Viagem a Tóquio,1953,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama, Sô Yamamura",8.2,62000,Drama,Japan,"Japanese, English",,37880,136
+0019254,A Paixão de Joana d'Arc,1928,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain, André Berley",8.2,55000,"Biography, Drama, History",France,"None, French",,21877,110
+0097165,O Clube dos Poetas Mortos,1989,Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",8.1,487000,"Comedy, Drama",United States,"English, Latin",16400000,235860116,128
+0395169,Hotel Ruanda,2004,Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",8.1,355000,"Biography, Drama, History","United Kingdom, South Africa, Italy, United States","English, French, Kinyarwanda",17500000,33882243,121
+1950186,Le Mans '66: O Duelo,2019,James Mangold,"Matt Damon, Christian Bale, Jon Bernthal",8.1,388000,"Action, Biography, Drama",United States,"English, Italian, French, Japanese",97600000,225508210,152
+0075148,Rocky,1976,John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",8.1,573000,"Drama, Sport",United States,English,960000,117250402,120
+0091763,Platoon - Os Bravos do Pelotão,1986,Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe",8.1,413000,"Drama, War","United States, United Kingdom","English, Vietnamese",6000000,138545632,120
+0048473,O Lamento da Vereda,1955,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee",8.3,33000,Drama,India,Bengali,,135342,125
+0092005,Conta Comigo,1986,Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman",8.1,402000,"Adventure, Drama",United States,English,8000000,52287414,89
+0088247,O Exterminador Implacável,1984,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",8.1,860000,"Action, Sci-Fi","United Kingdom, United States","English, Spanish",6400000,78371200,107
+1895587,O Caso Spotlight,2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams",8.1,468000,"Biography, Crime, Drama",United States,English,20000000,98690254,129
+6710474,Tudo em Todo o Lado ao Mesmo Tempo,2022,Dan Kwan,"Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",8.1,225000,"Action, Adventure, Comedy",United States,"English, Mandarin, Cantonese",25000000,97683425,139
+1979320,Rush - Duelo de Rivais,2013,Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde",8.1,478000,"Action, Biography, Drama","United Kingdom, United States","English, German, Italian, French, Spanish",38000000,96983009,123
+3315342,Logan,2017,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",8.1,756000,"Action, Drama, Sci-Fi",United States,"English, Spanish",97000000,619179950,137
+0382932,Ratatui,2007,Brad Bird,"Brad Garrett, Lou Romano, Patton Oswalt",8.1,729000,"Animation, Adventure, Comedy",United States,"English, French",150000000,623726085,111
+0074958,Escândalo na TV,1976,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",8.1,160000,Drama,United States,English,3800000,23690757,121
+0758758,O Lado Selvagem,2007,Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener",8.1,621000,"Adventure, Biography, Drama",United States,"English, Danish",15000000,56675895,148
+0032138,O Feiticeiro de Oz,1939,Victor Fleming,"Judy Garland, Frank Morgan, Ray Bolger",8.1,398000,"Adventure, Family, Fantasy",United States,English,2777000,25637669,102
+0381681,Antes do Anoitecer,2004,Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",8.1,264000,"Drama, Romance","United States, France","English, French",2700000,15849759,80
+0107048,O Feitiço do Tempo,1993,Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott",8.1,628000,"Comedy, Drama, Fantasy",United States,"English, French, Italian",14600000,71108591,101
+0070047,O Exorcista,1973,William Friedkin,"Ellen Burstyn, Max von Sydow, Linda Blair",8.1,405000,Horror,United States,"English, Latin, Greek, French, German, Arabic, Kurdish",11000000,441306145,122
+15097216,Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose, Manikandan K.",8.9,200000,"Crime, Drama, Mystery",India,"Tamil, Hindi, Telugu",,,164
+0035446,Ser ou Não Ser,1942,Ernst Lubitsch,"Carole Lombard, Jack Benny, Robert Stack",8.2,38000,"Comedy, Romance, War",United States,"English, German",,4578000,99
+0036868,Os Melhores Anos das Nossas Vidas,1946,William Wyler,"Myrna Loy, Dana Andrews, Fredric March",8.1,65000,"Drama, Romance, War",United States,English,2100000,23656620,170
+0317705,The Incredibles - Os Super Heróis,2004,Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter",8.0,732000,"Animation, Action, Adventure",United States,"English, French",92000000,631607053,115
+0058946,A Batalha de Argel,1966,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin, Yacef Saadi",8.1,60000,"Drama, War","Italy, Algeria","Arabic, French, English",800000,962002,121
+1028532,Hachiko - Amigo para Sempre,2009,Lasse Hallström,"Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",8.1,284000,"Biography, Drama, Family","United Kingdom, United States","English, Japanese",16000000,46749646,93
+0032551,As Vinhas da Ira,1940,John Ford,"Henry Fonda, Jane Darwell, John Carradine",8.1,94000,Drama,United States,English,800000,,129
+0032976,Rebecca,1940,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine, George Sanders",8.1,137000,"Drama, Film-Noir, Mystery",United States,"English, French",1288000,72275,130
+0245712,Amor Cão,2000,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal, Goya Toledo",8.1,241000,"Drama, Thriller",Mexico,Spanish,2000000,20908467,154
+0476735,Babam ve Oglum,2005,Cagan Irmak,"Çetin Tekindor, Fikret Kuskan, Hümeyra",8.2,87000,"Drama, Family",Turkey,Turkish,,18612999,112
+0325980,Piratas das Caraíbas - A Maldição do Pérola Negra,2003,Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom",8.1,1100000,"Action, Adventure, Fantasy",United States,English,140000000,654264015,143
+0113247,O Ódio,1995,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",8.1,173000,"Crime, Drama","France, United States",French,,412914,98
+0061512,O Presidiário,1967,Stuart Rosenberg,"Paul Newman, George Kennedy, Strother Martin",8.1,177000,"Crime, Drama",United States,English,3200000,67,127
+0053198,Os Quatrocentos Golpes,1959,François Truffaut,"Jean-Pierre Léaud, Albert Rémy, Claire Maurier",8.1,118000,"Crime, Drama",France,"French, English",,127244,99
+0060827,A Máscara,1966,Ingmar Bergman,"Bibi Andersson, Liv Ullmann, Margaretha Krook",8.1,119000,"Drama, Thriller",Sweden,"Swedish, English",,90556,85
+0025316,Uma Noite Aconteceu,1934,Frank Capra,"Clark Gable, Claudette Colbert, Walter Connolly",8.1,104000,"Comedy, Romance",United States,English,325000,,105
+4016934,A Criada,2016,Park Chan-wook,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",8.1,146000,"Drama, Romance, Thriller",South Korea,"Korean, Japanese",,37854655,145
+0059742,Música no Coração,1965,Robert Wise,"Julie Andrews, Christopher Plummer, Eleanor Parker",8.1,234000,"Biography, Drama, Family",United States,"English, German",8200000,159428329,172
+0079470,A Vida de Brian,1979,Terry Jones,"Graham Chapman, John Cleese, Michael Palin",8.0,399000,Comedy,United Kingdom,"English, Latin",4000000,20745728,94
+0071411,Dersu Uzala - A Águia da Estepe,1975,Akira Kurosawa,"Maksim Munzuk, Yuriy Solomin, Mikhail Bychkov",8.2,30000,"Adventure, Biography, Drama","Soviet Union, Japan","Russian, Chinese",4000000,14480,142
+1454029,As Serviçais,2011,Tate Taylor,"Viola Davis, Emma Stone, Octavia Spencer",8.1,458000,Drama,"United States, India",English,25000000,216639112,146
+0083987,Gandhi,1982,Richard Attenborough,"Ben Kingsley, John Gielgud, Rohini Hattangadi",8.1,232000,"Biography, Drama","United Kingdom, India, United States, South Africa","English, Hindi",22000000,52767889,191
+0103639,Aladdin,1992,Ron Clements,"Scott Weinger, Robin Williams, Linda Larkin",8.0,417000,"Animation, Adventure, Comedy",United States,English,28000000,504050219,90
+0129167,O Gigante de Ferro,1999,Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston",8.1,197000,"Animation, Action, Adventure",United States,English,70000000,23335817,86
